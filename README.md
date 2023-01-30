@@ -20,6 +20,10 @@ You should structure this template losely based on the [Data Science Cookiecutte
 
 A longer description of your project goes here...
 
+## Resources
+
+- [Slides]()
+
 ## Setup
 
 We generally use [conda](https://docs.conda.io/en/latest/miniconda.html) and [Jupyter notebooks](https://jupyter.org/) for development.
