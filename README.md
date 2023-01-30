@@ -20,6 +20,19 @@ You should structure this template losely based on the [Data Science Cookiecutte
 
 A longer description of your project goes here...
 
+## Setup
+
+We generally use [conda](https://docs.conda.io/en/latest/miniconda.html) and [Jupyter notebooks](https://jupyter.org/) for development.
+To set up this project, do the following:
+
+```bash
+# creates a conda environment called `thesis` from the `environment.yml` file
+# ATTENTION: update the `environment.yml` as you install more packages
+conda env create -f environment.yml -n thesis
+
+# install thesis as a packages (this allows to import the code from `src` as a package called `thesis`)
+pip install -e .
+```
 
 <!-- pyscaffold-notes -->
 
