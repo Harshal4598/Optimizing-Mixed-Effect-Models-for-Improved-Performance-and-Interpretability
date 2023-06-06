@@ -32,7 +32,8 @@ To set up this project, do the following:
 ```bash
 # creates a conda environment called `thesis` from the `environment.yml` file
 # ATTENTION: update the `environment.yml` as you install more packages
-conda env create -f environment.yml -n thesis
+#conda env create -f environment.yml -n thesis
+conda env create -f conda_environment.yml
 
 # install thesis as a packages (this allows to import the code from `src` as a package called `thesis`)
 pip install -e .
