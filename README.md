@@ -22,7 +22,16 @@ A longer description of your project goes here...
 
 ## Resources
 
-- [Slides]()
+- Code for Mixed Effects Models
+     https://gitfront.io/r/DeepLearningForPrecisionHealthLab/54f18307815dfb2148fbc2d14368c1268b63825e/       ARMED-MixedEffectsDL/
+     https://github.com/gsimchoni/lmmnn
+
+- Code for subgroup discovery and exceptional model mining
+     http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/749.pdf)
+     https://github.com/flemmerich/pysubgroup
+
+- Literature on exceptional model mining
+     https://wwwis.win.tue.nl/~wouter/Publ/W3-EMM_MTP.pdf
 
 ## Setup
 
