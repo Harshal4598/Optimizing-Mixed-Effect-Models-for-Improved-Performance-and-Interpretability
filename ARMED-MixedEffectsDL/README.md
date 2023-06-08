@@ -20,7 +20,7 @@ conda env create -f conda_environment.yml --prefix </path/to/environment/locatio
 ```
 
 ## Table of contents
-The main [`armed`](./armed) package contains the general-purpose tools for building ARMED models. The random effects layers can be found in `armed.models.random_effects`. Below are links to specific applications of ARMED models included in the above manuscript. 
+The main [`armed`](./models/armed) package contains the general-purpose tools for building ARMED models. The random effects layers can be found in `armed.models.random_effects`. Below are links to specific applications of ARMED models included in the above manuscript. 
 
 * [Synthetic datasets](./synthetic_dataset): dense feedforward neural network applied to simulated spiral classification problems with random effects
 * [MCI conversion](./ad_conversion): dense feedforward neural network applied to classification of stable vs. progressive mild cognitive impairment
