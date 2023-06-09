@@ -23,7 +23,7 @@ A longer description of your project goes here...
 ## Resources
 
 - Code for Mixed Effects Models
-     https://gitfront.io/r/DeepLearningForPrecisionHealthLab/54f18307815dfb2148fbc2d14368c1268b63825e/       ARMED-MixedEffectsDL/
+     https://gitfront.io/r/DeepLearningForPrecisionHealthLab/54f18307815dfb2148fbc2d14368c1268b63825e/ARMED-MixedEffectsDL/
      https://github.com/gsimchoni/lmmnn
 
 - Code for subgroup discovery and exceptional model mining

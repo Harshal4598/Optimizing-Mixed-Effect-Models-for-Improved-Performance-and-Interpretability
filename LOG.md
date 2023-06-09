@@ -1,13 +1,19 @@
 # LOG
+
+
+
 ## 2023-06-07 (Pre 2/4)
 
 - agenda
     - Use of Design Matrix in Classification Problem
     - Subgroup Discovery, the results and more
     - BinomialBayesMixedGLM, reading reults and ...
-    - Any Advice and Feedback 
+    - Any Advice and Feedback
+- notes
+    - [x] pysubgroup
 - TODO
-    - [ ]
+    - [ ] play around with a parameter of standard quality function
+    - [ ] make small notebooks ... with simple example
 
 ## 2023-05-31 (Pre 1/4)
 

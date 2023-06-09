@@ -35,4 +35,3 @@ dependencies:
     - tqdm==4.50.2
     - xgboost==1.2.0
     - pysubgroup==0.7.3
-prefix: /project/bioinformatics/DLLab/shared/CondaEnvironments/Kevin385Ray
