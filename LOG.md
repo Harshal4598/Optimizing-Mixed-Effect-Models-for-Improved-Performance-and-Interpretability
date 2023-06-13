@@ -4,8 +4,20 @@
 
 - agenda
     - Subgroup Discovery
+    - what about mixedlm (lmmnn)
     - ARMED Solution
-
+- notes
+    - subgroup discovery
+    - lmmnn: still coding
+- TODO
+    - [ ] try to run lmmn
+    - [ ] try to find data sets for fixed effects modeling but with more than one variable for groups
+    - [ ] for practice: try to implement
+        - [Understanding Where Your Classifier Does (Not) Work -- The SCaPE Model Class for EMM](https://wwwis.win.tue.nl/~wouter/Publ/C11-SCaPE.pdf)
+        - to do this have a look at [`binary_target.py`](https://github.com/flemmerich/pysubgroup/blob/master/pysubgroup/binary_target.py) and implement your own target
+        - I added a very simple implementation of something similar (not nicely programmed) to this repo (this may already implement what we want, but please check it)
+        - test it with some classification task
+        - the idea is later to create our own target sepcific to slecting groups of variables (not instances) for mixed models using subgroup analysis
 
 ## 2023-06-07 (Pre 2/4)
 

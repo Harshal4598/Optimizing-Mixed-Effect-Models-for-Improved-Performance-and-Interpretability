@@ -1,6 +1,7 @@
 # Custom
 data
 ext
+.ipynb_checkpoints
 
 # Temporary and binary files
 *~
