@@ -1,5 +1,10 @@
 # LOG
 
+## 2023-06-13 (Pre 3/4)
+
+- agenda
+    - Subgroup Discovery
+    - ARMED Solution
 
 
 ## 2023-06-07 (Pre 2/4)
