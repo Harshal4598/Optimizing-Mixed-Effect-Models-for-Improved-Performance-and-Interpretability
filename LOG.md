@@ -1,5 +1,20 @@
 # LOG
 
+## 2023-06-20 (Pre 4/4)
+
+- agenda
+    - go through TODO
+    - subgroups
+    - datasets
+- PLAN
+    - [ ] lmmnn/mixedlm on group combinations: report differences
+        - [ ] try all combination
+        - [ ] synthetic dataset where subset of groups is better
+    - [ ] lmmnn run more examples
+    - [ ] try ARMED again
+        - [ ] only classification?
+
+
 ## 2023-06-13 (Pre 3/4)
 
 - agenda
