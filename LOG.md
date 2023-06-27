@@ -1,5 +1,17 @@
 # LOG
 
+
+## 2023-06-27 (Pre 5/4)
+
+- agenda
+    - show some results
+        - synthetics
+    - talk about lmmnn
+- TODO
+    - [ ] agenda + next steps
+    - [ ] slides (five minutes)
+    - [ ] ARMED
+
 ## 2023-06-20 (Pre 4/4)
 
 - agenda
