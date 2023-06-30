@@ -33,6 +33,8 @@ A longer description of your project goes here...
 - Literature on exceptional model mining
      https://wwwis.win.tue.nl/~wouter/Publ/W3-EMM_MTP.pdf
 
+- [Slides](https://docs.google.com/presentation/d/1uIVstYVFzIe4RDEFKaanmnqZYlY-ZEH5NMFYDYqwb1k/edit?usp=sharing)
+
 ## Setup
 
 We generally use [conda](https://docs.conda.io/en/latest/miniconda.html) and [Jupyter notebooks](https://jupyter.org/) for development.
