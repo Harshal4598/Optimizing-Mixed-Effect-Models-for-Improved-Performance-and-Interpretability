@@ -1,5 +1,13 @@
 # LOG
 
+## 2023-07-11
+
+- agenda
+    - lmmnn performance issues
+    - synthetic data with regression and mixedlm
+    - focus > regression or classification?
+- TODO
+    - [ ]
 
 ## 2023-06-27 (Pre 5/4)
 
