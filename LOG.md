@@ -1,13 +1,15 @@
 # LOG
 
-## 2023-07-11
+## 2023-07-11 (6/4)
 
 - agenda
     - lmmnn performance issues
     - synthetic data with regression and mixedlm
     - focus > regression or classification?
 - TODO
-    - [ ]
+    - [ ] lmmnn linear, no hidden layers
+    - [ ] mixedlm: add binary columns (cartesian) until ite breaks down
+    - [ ] agenda + summary of work + next steps (two to three items)
 
 ## 2023-06-27 (Pre 5/4)
 
