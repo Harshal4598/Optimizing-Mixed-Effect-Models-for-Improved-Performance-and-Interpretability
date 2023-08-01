@@ -6,9 +6,10 @@
     - LMMNN - Random Intercepts
     - Complications with LMMNN Random Slopes
     - Neural Network used in LMMNN
+    - Group Meeting
 - TODO
     - [ ] Random intercepts with multiple groups
-    - [ ] Continue with Random slopes?
+    - [ ] Continue with Random slopes? 
 
 ## 2023-07-11 (6/4)
 
