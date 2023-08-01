@@ -1,5 +1,15 @@
 # LOG
 
+## 2023-08-01 (7/4)
+
+- agenda
+    - LMMNN - Random Intercepts
+    - Complications with LMMNN Random Slopes
+    - Neural Network used in LMMNN
+- TODO
+    - [ ] Random intercepts with multiple groups
+    - [ ] Continue with Random slopes?
+
 ## 2023-07-11 (6/4)
 
 - agenda
