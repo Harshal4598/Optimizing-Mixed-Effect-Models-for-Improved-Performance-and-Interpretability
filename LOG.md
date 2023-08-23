@@ -1,5 +1,16 @@
 # LOG
 
+## 2023-08-23
+
+- agenda
+- TODO
+    - [ ] abstract
+    - [ ] make comparison table (interpretable)
+    - [ ] do it for 20 groups (if it does not run too long)
+    - [ ] 
+    - [ ] agenda + next steps
+
+
 ## 2023-08-07 (8/4)
 
 - agenda
@@ -7,7 +18,7 @@
     - Discussion about the objective
 
 - TODO
-    - [ ] Random intercepts with multiple groups untill it breaks for LMMNN and MixedLM
+    - [ ] Random intercepts with multiple groups until it breaks for LMMNN and MixedLM
     - [ ] Get random slopes running
 
 ## 2023-08-01 (7/4)
