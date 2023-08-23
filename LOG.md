@@ -1,5 +1,15 @@
 # LOG
 
+## 2023-08-07 (8/4)
+
+- agenda
+    - LMMNN - Random intercepts with multiple categorical features
+    - Discussion about the objective
+
+- TODO
+    - [ ] Random intercepts with multiple groups untill it breaks for LMMNN and MixedLM
+    - [ ] Get random slopes running
+
 ## 2023-08-01 (7/4)
 
 - agenda
@@ -8,8 +18,8 @@
     - Neural Network used in LMMNN
     - Group Meeting
 - TODO
-    - [ ] Random intercepts with multiple groups
-    - [ ] Continue with Random slopes? 
+    - [ ] Random intercepts with multiple groups untill it breaks for LMMNN and MixedLM
+    - [ ] Get random slopes running
 
 ## 2023-07-11 (6/4)
 
