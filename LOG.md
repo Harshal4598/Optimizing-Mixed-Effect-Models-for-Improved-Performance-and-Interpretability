@@ -1,5 +1,17 @@
 # LOG
 
+## 2023-08-28
+
+- agenda
+    - Group Search Approaches
+    - What about EMM - SD now?
+    - If this suffice then, Non-linaer or Classification?
+- TODO
+    - [ ] abstract (will send an email before next meeting)
+    - [ ] Solid proof - Slope model does not work or too complicated
+    - [ ] 
+    - [ ] make comparison table (interpretable)
+
 ## 2023-08-23
 
 - agenda
