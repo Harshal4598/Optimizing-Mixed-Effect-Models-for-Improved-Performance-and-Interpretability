@@ -1,6 +1,23 @@
 # LOG
 
-## 2023-08-28
+## 2023-09-04
+
+- agenda
+    - Confusion with Differentiating real groups
+    - Some thoughts with related work papers
+- TODO
+    - [ ] Intercepts performance plot (real Groups <-> effective groups)
+    - [ ] abstract 
+
+## 2023-08-29
+
+- agenda
+    - New ways to generate mixed effcts - Intercepts, Slopes and Mixed
+- TODO
+    - [ ] Perform it for intercepts
+    - [ ] abstract
+
+## 2023-08-28 - Group Meeting
 
 - agenda
     - Group Search Approaches
