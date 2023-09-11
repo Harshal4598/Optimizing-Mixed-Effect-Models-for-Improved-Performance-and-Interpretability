@@ -1,5 +1,19 @@
 # LOG
 
+
+## 2023-09-11
+
+- notes
+    - even if things still work with many visible groups 
+        we have an interpretation issue
+- TODO
+    - [ ] update data generation
+    - [ ] same figure with updated data generation
+    - [ ] random slopes (ARMED)
+    - [ ] random slopes + intercepts
+    - [ ] abstract
+    - [ ] try with interaction terms
+
 ## 2023-09-04
 
 - agenda
