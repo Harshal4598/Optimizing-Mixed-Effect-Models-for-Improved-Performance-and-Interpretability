@@ -35,6 +35,9 @@ A longer description of your project goes here...
 
 - [Slides](https://docs.google.com/presentation/d/1uIVstYVFzIe4RDEFKaanmnqZYlY-ZEH5NMFYDYqwb1k/edit?usp=sharing)
 
+-[Documentation] 
+(https://docs.google.com/document/d/1UzC7g9hLB7k6Cp63zgHmm-rWwbRV89OjvGteV4-BmVY/edit?usp=sharing)
+
 ## Setup
 
 We generally use [conda](https://docs.conda.io/en/latest/miniconda.html) and [Jupyter notebooks](https://jupyter.org/) for development.
