@@ -1,5 +1,17 @@
 # LOG
 
+## 2023-09-26
+
+- Agenda
+    - Finalizing Data Generation Algorithm
+    - Random slopes with ARMED and others
+    - Discussion: At Least need one model for Random Slopes    
+    - Abstract
+
+- TODO
+    - [ ] Interaction terms for Random slopes
+    - [ ] Random slopes working 
+    - [ ] Start with effective group finding approach for Intercepts only.
 
 ## 2023-09-11
 
