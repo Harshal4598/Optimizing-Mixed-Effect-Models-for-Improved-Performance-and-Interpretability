@@ -9,9 +9,8 @@
     - Abstract
 
 - TODO
-    - [ ] Interaction terms for Random slopes
-    - [ ] Random slopes working 
-    - [ ] Start with effective group finding approach for Intercepts only.
+    - [ ] Update Abstarct
+    - [ ] Find ateast one working model for random slopes
 
 ## 2023-09-11
 
