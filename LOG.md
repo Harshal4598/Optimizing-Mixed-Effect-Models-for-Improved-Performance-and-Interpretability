@@ -1,5 +1,17 @@
 # LOG
 
+## 2023-10-11
+
+- Agenda
+    - Random Slope Results discussion
+    - Data generation - Random Intercept & slopes
+
+- TODO
+    - [ ] Simulate for Random Intercept and Slopes
+    - [ ] Start with effective group finding approach for Intercepts only.
+    - [ ] Abstract
+
+
 ## 2023-09-26
 
 - Agenda
