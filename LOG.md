@@ -8,7 +8,7 @@
 
 - TODO
     - [ ] Simulate for Random Intercept and Slopes
-    - [ ] Start with effective group finding approach for Intercepts only.
+    - [ ] Start with effective group finding approach
     - [ ] Abstract
 
 
