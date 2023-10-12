@@ -7,6 +7,7 @@
     - Data generation - Random Intercept & slopes
 
 - TODO
+    - [ ] update visualization with sampling (one of 2 versions)
     - [ ] Simulate for Random Intercept and Slopes
     - [ ] Start with effective group finding approach
     - [ ] Abstract
