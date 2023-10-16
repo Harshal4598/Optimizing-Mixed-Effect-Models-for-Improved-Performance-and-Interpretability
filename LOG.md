@@ -1,5 +1,18 @@
 # LOG
 
+## 2023-10-16
+
+- Agenda
+    - Results - “slopes” and “both” mode with 10 Samplings
+    - Interpreting the results
+    - Abstract
+    - Discussion about effective Group Finding Approach
+
+- TODO
+    - [ ] Perform basic Group Finding Approach - BFS
+    - [ ] Look for other approaches
+
+
 ## 2023-10-11
 
 - Agenda
