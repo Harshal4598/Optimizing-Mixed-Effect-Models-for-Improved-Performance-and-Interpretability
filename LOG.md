@@ -1,5 +1,19 @@
 # LOG
 
+## 2023-10-24
+
+- Agenda
+    - Abstract
+    - Interpreting the results with better better slope generation
+    - Discussion about effective Group Finding Approach
+
+
+- TODO
+    - [ ] Work on concrete results
+    - [ ] Start with Effective groups finding approach
+
+
+
 ## 2023-10-16
 
 - Agenda
