@@ -1,5 +1,18 @@
 # LOG
 
+## 2023-11-06
+
+- Agenda
+    - Discussion about results and any improvement
+    - Data Generation Algorithm Slides
+    - Interpretability now or later?
+
+- TODO
+
+    - [ ] Work on slides for next group meeting
+    - [ ] Start with Effective groups finding approach
+
+
 ## 2023-10-24
 
 - Agenda
