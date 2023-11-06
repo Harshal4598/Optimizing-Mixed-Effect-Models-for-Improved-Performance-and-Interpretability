@@ -10,8 +10,10 @@
 - TODO
 
     - [ ] Work on slides for next group meeting
+    - [ ] linspace (for something other than MERF)
+    - [ ] interpretability
+    
     - [ ] Start with Effective groups finding approach
-
 
 ## 2023-10-24
 
