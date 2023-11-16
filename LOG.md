@@ -1,5 +1,19 @@
 # LOG
 
+## 2023-11-16
+
+- Agenda
+    - Np.linspace on ARMED
+    - Reason for ups and downs in MSE
+    - Interpretability
+
+
+- TODO
+
+    - [ ] Prepare presentation
+    - [ ] Work further on Interpretability
+
+
 ## 2023-11-06
 
 - Agenda
