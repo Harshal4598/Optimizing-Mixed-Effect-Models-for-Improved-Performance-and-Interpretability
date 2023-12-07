@@ -1,5 +1,14 @@
 # LOG
 
+## 2023-12-07
+
+- next steps
+    - [ ] fix the noise
+    - [ ] use the right mixedlm formula
+    - [ ] figure why predictions of mixedlm don't work on effective groups
+    - [ ] produce those visible group figures with just two and three effective groups
+    - [ ] brute force 
+
 ## 2023-11-16
 
 - Agenda
