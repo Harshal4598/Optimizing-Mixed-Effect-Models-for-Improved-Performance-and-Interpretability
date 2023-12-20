@@ -10,7 +10,17 @@
 
 - Next steps
     - [ ] Improve the current Method to reduce Group.
-    - [ ] 
+    - clustering
+        - [ ] intercept / slope plot
+        - [ ] check clustering methods
+        - [ ] train test test data split ... for knee plot
+    - MixedLM
+        - [ ] clean notebook
+            - parameters at the top to play with
+            - visualization of the data
+            - plot only effective groups
+            - plot visual groups
+            - permutation of group labels   
 
 ## 2023-12-07
 
