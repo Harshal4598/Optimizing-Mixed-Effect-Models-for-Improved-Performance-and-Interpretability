@@ -1,5 +1,17 @@
 # LOG
 
+## 2023-12-20
+## Weeks Left: 14
+
+ - Agenda
+    - Method to reduce Group: Jenks Natural Breaks
+    - Discussion/Confusion: Our Initial Hypothesis does not satisfy.
+        (The model performs better when there are less groups.)
+
+- Next steps
+    - [ ] Improve the current Method to reduce Group.
+    - [ ] 
+
 ## 2023-12-07
 
 - next steps
