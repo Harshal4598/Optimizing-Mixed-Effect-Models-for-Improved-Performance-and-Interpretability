@@ -1,5 +1,20 @@
 # LOG
 
+## 2024-01-08
+## Weeks Left: 11
+
+ - Agenda
+    - Performance Comparison of Effective Groups and Visible Groups
+        - Performance(Effective_Groups) > Performance(Visible_Groups)
+        - Models may break as the number of visible groups increase.
+    - Jenks Natural Breaks: Train-Test data performance diagnosis on knee plot
+    - Clustering Methods to reduce Group
+    - Discuss Interpretability
+
+
+- Next steps
+    - [ ] Work on Interpretability 
+
 ## 2023-12-20
 ## Weeks Left: 14
 
