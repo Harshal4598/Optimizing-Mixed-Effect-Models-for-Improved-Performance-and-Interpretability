@@ -11,9 +11,11 @@
     - Clustering Methods to reduce Group
     - Discuss Interpretability
 
-
 - Next steps
-    - [ ] Work on Interpretability 
+    - [ ] think about what we did, what we can do, and what we can do next
+    - [ ] come up with a plan of what you think are the best next steps (be creative!)
+    - [ ] start slides for midterm presentation
+    - [ ] Work on Interpretability
 
 ## 2023-12-20
 ## Weeks Left: 14
