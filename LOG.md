@@ -1,5 +1,20 @@
 # LOG
 
+## 2024-01-15
+## Weeks Left: 10
+
+ - Agenda
+    - Future Steps
+
+ - Next steps
+    - [ ] Consider multi dimentional data with multiple slopes
+    - [ ] Methods
+            - Jenks with Shapley values and PCA
+            - Clustering with Shapley values and PCA
+            - Brute Force 
+            - Informed Brute Force with Shapley value
+    - [ ] Mid-term Report
+
 ## 2024-01-08
 ## Weeks Left: 11
 
