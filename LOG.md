@@ -11,8 +11,14 @@
 
 
  - Next steps
+    - [ ] overleaf
+        - [ ] table of contents
+        - [ ] detailed structure experiments/results
     - [ ] Mid-term report
     - [ ] Method 4 : Brute Force
+        - [ ] heuristic/informed brute force
+       - [ ] Sensible merging
+    - [ ] agenda
 
 
 ## 2024-01-15
