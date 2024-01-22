@@ -1,5 +1,20 @@
 # LOG
 
+## 2024-01-22
+## Weeks Left: 9
+
+ - Agenda
+    - Method 1: Using Jenks Natural Breaks with PCA
+    - Method 2: Using Clustering Algorithm with PCA
+    - Method 3: Using Shapley values with PCA on Jenks / Clustering
+    - Discuss : Brute Force & Interpretability
+
+
+ - Next steps
+    - [ ] Mid-term report
+    - [ ] Method 4 : Brute Force
+
+
 ## 2024-01-15
 ## Weeks Left: 10
 
@@ -9,8 +24,9 @@
  - Next steps
     - [ ] Consider multi dimentional data with multiple slopes
     - [ ] Methods
-            - Jenks with Shapley values and PCA
-            - Clustering with Shapley values and PCA
+            - Jenks with PCA
+            - Clustering with PCA
+            - Shapley with PCA
             - Brute Force 
             - Informed Brute Force with Shapley value
     - [ ] Mid-term Report
