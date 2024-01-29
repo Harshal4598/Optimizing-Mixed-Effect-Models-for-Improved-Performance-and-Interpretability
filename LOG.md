@@ -1,5 +1,19 @@
 # LOG
 
+## 2024-01-29
+## Weeks Left: 8
+
+ - Agenda
+    - Brute Force Algorithm
+    - Simulation Results
+    - Report and Table of Contents
+
+ - Next steps
+    - [ ] Method 4 : Brute Force
+    - [ ] Informed Brute Force
+    - [ ] Interpretability
+
+
 ## 2024-01-22
 ## Weeks Left: 9
 
