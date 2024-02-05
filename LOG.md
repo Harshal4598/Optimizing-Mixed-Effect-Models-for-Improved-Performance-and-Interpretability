@@ -1,5 +1,18 @@
 # LOG
 
+## 2024-02-05
+## Weeks Left: 7
+
+ - Agenda
+    - Quick update with Brute Force Algorithm
+    - Discuss: Algorithm of Informed Brute Force with shapley values 
+               and goodness of variance fit
+
+ - Next steps
+    - [ ] Working Informed Brute Force
+    - [ ] Interpretability
+
+
 ## 2024-01-29
 ## Weeks Left: 8
 
