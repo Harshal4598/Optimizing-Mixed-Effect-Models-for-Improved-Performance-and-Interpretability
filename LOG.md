@@ -1,5 +1,17 @@
 # LOG
 
+## 2024-02-16
+## Weeks Left: 6
+
+ - Agenda
+    - Method: Heuristic Approach - Performance-based Pair Selection 
+    - Presentation
+    - Discussion: Improving Interpretability or prove trade-offs?
+
+
+ - Next steps
+    - [ ] Focus on writing
+
 ## 2024-02-05
 ## Weeks Left: 7
 
