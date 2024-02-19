@@ -1,5 +1,16 @@
 # LOG
 
+## 2024-02-19
+## Weeks Left: 5
+
+ - Agenda
+    - Discussion: Pre-Defence
+    - Table of Contents
+
+ - Next steps
+    - [ ] Focus on writing
+
+
 ## 2024-02-16
 ## Weeks Left: 6
 
