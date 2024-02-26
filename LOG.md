@@ -1,5 +1,15 @@
 # LOG
 
+## 2024-02-26
+## Weeks Left: 4
+
+ - Agenda
+    - Feedback on Mock-Defence
+    - Check out Overleaf Format
+
+ - Next steps
+    - [ ] Documentation
+
 ## 2024-02-19
 ## Weeks Left: 5
 
