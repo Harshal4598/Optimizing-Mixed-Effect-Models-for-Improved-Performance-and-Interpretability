@@ -1,5 +1,14 @@
 # LOG
 
+## 2024-03-04
+## Weeks Left: 3
+
+ - Agenda
+    - Feedback on Section 1 and 3
+
+ - Next steps
+    - [ ] Documentation
+
 ## 2024-02-26
 ## Weeks Left: 4
 
