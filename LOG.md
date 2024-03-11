@@ -1,5 +1,16 @@
 # LOG
 
+## 2024-03-11
+## Weeks Left: 2
+
+ - Agenda
+    - Report discussion
+    - Some questions about report 
+    - [Documentation](https://www.overleaf.com/3329248876jkjghsyphzxv#1cb8df)
+
+ - Next steps
+    - [ ] Documentation
+
 ## 2024-03-04
 ## Weeks Left: 3
 
