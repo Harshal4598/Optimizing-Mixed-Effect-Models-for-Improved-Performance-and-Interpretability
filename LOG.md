@@ -1,5 +1,14 @@
 # LOG
 
+## 2024-03-18
+## Weeks Left: 1
+
+ - Agenda
+    - Experiments and Methods Results
+
+ - Next steps
+    - [ ] Finish the report
+
 ## 2024-03-11
 ## Weeks Left: 2
 
