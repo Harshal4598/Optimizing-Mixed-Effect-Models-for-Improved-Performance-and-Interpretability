@@ -1,5 +1,15 @@
 # LOG
 
+## 2024-03-25
+## Weeks Left: 1
+
+ - Agenda
+    - Discussion: Addression results
+
+ - Next steps
+    - [ ] Finish the report
+
+
 ## 2024-03-18
 ## Weeks Left: 1
 
