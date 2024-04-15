@@ -4,7 +4,7 @@
 ## Weeks Left: 1
 
  - Agenda
-    - Discussion: Addression results
+    - Discussion: Addressing results
 
  - Next steps
     - [ ] Finish the report
