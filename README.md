@@ -15,7 +15,7 @@
 #  Optimizing Mixed-Effect Models for Improved Performance and Interpretability
 
 ## Overview
-This thesis investigates the effect of a large number of groups on mixed-effects models. When dealing with data with a large number of groups, not all the groups are unique in their way and some groups might be similar to others, so combining them could improve the model performance. We conducted several experiments on synthetic data and found that reducing the number of groups improved the performance of existing mixed-effects models. We aimed to develop methods for group reduction that improve model performance as well as interpretability. However, our proposed methods were able to achieve better model performance but have a lack of interpretability in explaining why the groups were combined, which remains an area for further exploration and improvement in methods.
+This thesis investigates the effect of a large number of groups on mixed-effects models. When dealing with data with a large number of groups, not all the groups are unique and some groups might be similar to others, so combining them could improve the model performance. We conducted several experiments on synthetic data and found that reducing the number of groups improved the performance of existing mixed-effects models. We aimed to develop methods for group reduction that improve model performance as well as interpretability. However, our proposed methods were able to achieve better model performance but have a lack of interpretability in explaining why the groups were combined, which remains an area for further exploration and improvement in methods.
 
 ## Objectives
 - To investigate the impact of a large number of groups on the performance of existing mixed-effects models.
