@@ -12,7 +12,7 @@
 
 [![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
 
-# Exceptional Model Mining for Selecting Effect Variables in Mixed Effect Models
+#  Optimizing Mixed-Effect Models for Improved Performance and Interpretability
 
 You should structure this template losely based on the [Data Science Cookiecutter Template](https://drivendata.github.io/cookiecutter-data-science/).
 
