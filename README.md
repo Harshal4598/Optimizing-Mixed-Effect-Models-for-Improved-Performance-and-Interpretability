@@ -14,17 +14,16 @@
 
 #  Optimizing Mixed-Effect Models for Improved Performance and Interpretability
 
-You should structure this template losely based on the [Data Science Cookiecutter Template](https://drivendata.github.io/cookiecutter-data-science/).
-
-> Add a short description here!
-
 A longer description of your project goes here...
 
 ## Resources
 
 - Code for Mixed Effects Models
-     https://gitfront.io/r/DeepLearningForPrecisionHealthLab/54f18307815dfb2148fbc2d14368c1268b63825e/ARMED-MixedEffectsDL/
-     https://github.com/gsimchoni/lmmnn
+     > ARMED https://gitfront.io/r/DeepLearningForPrecisionHealthLab/54f18307815dfb2148fbc2d14368c1268b63825e/ARMED-MixedEffectsDL/
+
+     > LMMNN https://github.com/gsimchoni/lmmnn
+     
+     > MERF https://github.com/manifoldai/merf/tree/master
 
 - Code for subgroup discovery and exceptional model mining
      http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/749.pdf)
@@ -43,13 +42,7 @@ We generally use [conda](https://docs.conda.io/en/latest/miniconda.html) and [Ju
 To set up this project, do the following:
 
 ```bash
-# creates a conda environment called `thesis` from the `environment.yml` file
-# ATTENTION: update the `environment.yml` as you install more packages
-#conda env create -f environment.yml -n thesis
 conda env create -f conda_environment.yml
-
-# install thesis as a packages (this allows to import the code from `src` as a package called `thesis`)
-pip install -e .
 ```
 
 <!-- pyscaffold-notes -->
